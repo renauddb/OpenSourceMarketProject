@@ -1,0 +1,22 @@
+{
+  "product_name": "Organic Extra Virgin Olive Oil",
+  "producer": {
+    "name": "Dimitris Farm",
+    "country": "Greece",
+    "region": "Peloponnese"
+  },
+  "volume": "1L",
+  "certifications": [
+    "BIO",
+    "EU Organic"
+  ],
+  "price": "7.50\u20ac",
+  "shipping": {
+    "available_to": [
+      "EU",
+      "UK"
+    ],
+    "delay_days": 5
+  },
+  "description": "First cold-pressed olive oil from Koroneiki olives, handpicked and processed locally."
+}
