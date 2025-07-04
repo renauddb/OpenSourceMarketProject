@@ -1,0 +1,39 @@
+{
+  "listing_type": "for_sale",
+  "property_type": "house",
+  "title": "Proven\u00e7al Villa with Sea View in Villefranche-sur-Mer",
+  "location": {
+    "country": "France",
+    "region": "Provence-Alpes-C\u00f4te d'Azur",
+    "city": "Villefranche-sur-Mer",
+    "coordinates": null
+  },
+  "surface_area_m2": 145,
+  "land_area_m2": 800,
+  "rooms": {
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "other": [
+      "kitchen",
+      "living room",
+      "summer kitchen"
+    ]
+  },
+  "features": [
+    "infinity pool",
+    "sea view",
+    "air conditioning",
+    "solar panels",
+    "mediterranean garden",
+    "furnished",
+    "private sale"
+  ],
+  "price_eur": 1450000,
+  "availability": "immediate",
+  "description": "Charming 145 m\u00b2 Proven\u00e7al villa with panoramic sea view over the bay of Villefranche. 4 bedrooms, 2 bathrooms, infinity pool, 800 m\u00b2 garden, summer kitchen, fully furnished, ideal for seasonal rentals or as a second home. Private sale.",
+  "contact": {
+    "type": "private_owner",
+    "preferred_language": "French",
+    "availability_hours": "10:00-19:00 CET"
+  }
+}
